@@ -1,1 +1,1 @@
-Test
+Feel free to use this template for creating cool one-page navigations.
