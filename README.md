@@ -3,8 +3,9 @@ This repository aims at providing cool stuff for webdesign. Feel free to use eve
 
 ## Panels template
 A [template](https://github.com/qmonmous/Webdesign-JS-CSS/tree/master/panels-template) for creating cool one-page navigations.  
-
 ![template demonstration](https://media.giphy.com/media/57YmxUZ1CQQF6qIsnI/giphy.gif)
 
 ## 3D STL loader
-Add a 3D STL file that follows your mouse
+A template to add a 3D STL file that follows your mouse.
+
+![template demonstration](3DSTL-loader/img/3D.png)
