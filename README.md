@@ -11,4 +11,4 @@ A template to create nice one-page navigations.
 # Tracking 3DSTL
 A template to add a 3D STL file that **tracks your mouse**.
 
-![template demonstration](3DSTL-loader/img/3D.png)
+![template demonstration](Tracking%203DSTL/img/3D.png)
