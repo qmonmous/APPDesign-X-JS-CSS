@@ -1,5 +1,5 @@
 # ChartJS
-A template to start building Dashboards using features from ChartJS.
+A template to start building Dashboards using features from ChartJS. [Live demo here](https://adjscss-dashboard.herokuapp.com/).
 
 ![template demonstration](ChartJS/img/chartjs.png)
 
