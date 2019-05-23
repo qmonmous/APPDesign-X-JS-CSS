@@ -1,11 +1,14 @@
-# Webdesign-JS-CSS
-This repository aims at providing cool stuff for webdesign. Feel free to use every content I put here.
 
 ## Panels template
 A [template](https://github.com/qmonmous/Webdesign-JS-CSS/tree/master/panels-template) for creating cool one-page navigations.  
 ![template demonstration](https://media.giphy.com/media/57YmxUZ1CQQF6qIsnI/giphy.gif)
 
 ## 3D STL loader
-A template to add a 3D STL file that follows your mouse.
+A template to add a 3D STL file that **tracks your mouse**.
 
 ![template demonstration](3DSTL-loader/img/3D.png)
+
+## ChartJS
+A template to start building Dashboard using features from ChartJS.
+
+![template demonstration](ChartJS/img/chartjs.png)
